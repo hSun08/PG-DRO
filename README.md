@@ -1,4 +1,6 @@
-# PG-DRO Experiments
+# PG-DRO
+
+This is the Official Code for "Robust Generalization with Adaptive Optimal Transport Priors for Decision-Focused Learning" (AISTATS 2026)
 
 For numerical experiments, please run the files in the `numerical` folder.
 
